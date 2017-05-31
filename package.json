@@ -1,0 +1,12 @@
+{
+    "scripts": {
+        "test": "jest"
+    },
+    "jest": {
+        "testRegex": "(/__tests__/.*|\\.(test|spec))\\.js$"
+    },
+    "author": "lazyants",
+    "devDependencies": {
+        "jest": "^19.0.2"
+    }
+}
